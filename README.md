@@ -1,1 +1,1 @@
-# ANPR_YOLO11
+# ANPR_YOLOv8
