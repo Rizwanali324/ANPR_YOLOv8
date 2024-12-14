@@ -1,4 +1,8 @@
 # ANPR_YOLOv8 Setup Instructions
+# complete video 
+[![YouTube Video](https://img.youtube.com/vi/065fvBmnI9A/0.jpg)](https://youtu.be/065fvBmnI9A)
+
+
 
 ## Clone the Repository
 ```bash
